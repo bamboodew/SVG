@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd0f42e-3eab-4642-8628-6332ea2c9b6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_03_rectangular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_04_circle.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circle1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/circle1.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +34,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo_03_rectangular.html">
+  <component name="RunManager" selected="JavaScript Debug.demo_04_circle.html">
     <configuration name="demo_01_circle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_01_circle.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="demo_03_rectangular.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_03_rectangular.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_04_circle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_04_circle.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="demo_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_2.html" useBuiltInWebServerPort="true">
@@ -47,6 +49,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo_04_circle.html" />
         <item itemvalue="JavaScript Debug.demo_03_rectangular.html" />
         <item itemvalue="JavaScript Debug.demo_2.html" />
         <item itemvalue="JavaScript Debug.demo_01_circle.html" />
@@ -77,7 +80,7 @@
       <updated>1575880498604</updated>
       <workItem from="1575880499978" duration="604000" />
       <workItem from="1576494598369" duration="8585000" />
-      <workItem from="1576553520289" duration="418000" />
+      <workItem from="1576553520289" duration="677000" />
     </task>
     <servers />
   </component>
