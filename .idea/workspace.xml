@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd0f42e-3eab-4642-8628-6332ea2c9b6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_07_polygon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_08_polyline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo_07_polygon.html">
-    <configuration name="demo_03_rectangular.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_03_rectangular.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.demo_08_polyline.html">
     <configuration name="demo_04_circle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_04_circle.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -50,13 +47,16 @@
     <configuration name="demo_07_polygon.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_07_polygon.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="demo_08_polyline.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_08_polyline.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo_08_polyline.html" />
         <item itemvalue="JavaScript Debug.demo_07_polygon.html" />
         <item itemvalue="JavaScript Debug.demo_06_line.html" />
         <item itemvalue="JavaScript Debug.demo_05_ellipse.html" />
         <item itemvalue="JavaScript Debug.demo_04_circle.html" />
-        <item itemvalue="JavaScript Debug.demo_03_rectangular.html" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +85,7 @@
       <workItem from="1575880499978" duration="604000" />
       <workItem from="1576494598369" duration="8585000" />
       <workItem from="1576553520289" duration="6081000" />
-      <workItem from="1576757080469" duration="1010000" />
+      <workItem from="1576757080469" duration="1548000" />
     </task>
     <servers />
   </component>
