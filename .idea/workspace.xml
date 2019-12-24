@@ -34,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.demo_08_polyline.html">
     <configuration name="demo_04_circle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_04_circle.html" useBuiltInWebServerPort="true">
@@ -89,7 +89,7 @@
       <workItem from="1576553520289" duration="6081000" />
       <workItem from="1576757080469" duration="2270000" />
       <workItem from="1577149837337" duration="1212000" />
-      <workItem from="1577151089393" duration="591000" />
+      <workItem from="1577151089393" duration="1827000" />
     </task>
     <servers />
   </component>
@@ -105,10 +105,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1577151453650" />
-    <state x="341" y="146" key="SettingsEditor" timestamp="1577151679624">
+    <state x="337" y="88" key="SettingsEditor" timestamp="1577152969753">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="146" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577151679624" />
+    <state x="337" y="88" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577152969753" />
     <state x="632" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577151691767">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
