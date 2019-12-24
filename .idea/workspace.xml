@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd0f42e-3eab-4642-8628-6332ea2c9b6b" name="Default Changelist" comment="path_quadratic Bézier curve">
+    <list default="true" id="6bd0f42e-3eab-4642-8628-6332ea2c9b6b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_09_path.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo_09_path.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_10_path.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo_10_path.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -104,7 +102,8 @@
       <workItem from="1576757080469" duration="2270000" />
       <workItem from="1577149837337" duration="1212000" />
       <workItem from="1577151089393" duration="8306000" />
-      <workItem from="1577165139628" duration="3838000" />
+      <workItem from="1577165139628" duration="4538000" />
+      <workItem from="1577170418556" duration="336000" />
     </task>
     <task id="LOCAL-00001">
       <created>1577158509960</created>
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577162530892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="path_quadratic Bézier curve">
+      <created>1577169721644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577169721644</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,14 +174,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="479" y="272" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1577162181088" />
-    <state x="440" y="88" key="CommitChangelistDialog2" timestamp="1577169687234">
+    <state x="440" y="88" key="CommitChangelistDialog2" timestamp="1577169715396">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="440" y="88" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1577169687234" />
-    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1577151453650">
+    <state x="440" y="88" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1577169715396" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1577170352529">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1577151453650" />
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1577170352529" />
     <state width="1659" height="210" key="GridCell.Tab.0.bottom" timestamp="1577165069788">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -244,10 +250,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="624" y="227" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1577158795206" />
-    <state x="619" y="226" key="SettingsEditor" timestamp="1577166098773">
+    <state x="619" y="226" key="SettingsEditor" timestamp="1577170754196">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="619" y="226" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577166098773" />
+    <state x="619" y="226" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577170754196" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1577169936006">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1577169936006" />
     <state x="632" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577162483734">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -256,9 +266,9 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1577158808571" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1577155991751">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1577169923894">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1577155991751" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1577169923894" />
   </component>
 </project>
