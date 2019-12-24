@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd0f42e-3eab-4642-8628-6332ea2c9b6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_08_polyline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_08_polyline.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo_08_polyline.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1UjqkwaKii8g0mcVWMxaxtdkhXk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,7 +33,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.demo_08_polyline.html">
     <configuration name="demo_04_circle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_04_circle.html" useBuiltInWebServerPort="true">
@@ -85,7 +87,9 @@
       <workItem from="1575880499978" duration="604000" />
       <workItem from="1576494598369" duration="8585000" />
       <workItem from="1576553520289" duration="6081000" />
-      <workItem from="1576757080469" duration="1548000" />
+      <workItem from="1576757080469" duration="2270000" />
+      <workItem from="1577149837337" duration="1212000" />
+      <workItem from="1577151089393" duration="591000" />
     </task>
     <servers />
   </component>
@@ -93,9 +97,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="146" key="SettingsEditor" timestamp="1576499244214">
+    <state x="584" y="341" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1577151491564">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="146" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1576499244214" />
+    <state x="584" y="341" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1577151491564" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1577151453650">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1577151453650" />
+    <state x="341" y="146" key="SettingsEditor" timestamp="1577151679624">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="146" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577151679624" />
+    <state x="632" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577151691767">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="632" y="422" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1577151691767" />
   </component>
 </project>
