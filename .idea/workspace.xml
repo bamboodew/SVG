@@ -41,7 +41,7 @@
       <recent name="D:\MyData\jinshuang1\WebstormProjects\SVG" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo_07_polygon.html">
+  <component name="RunManager" selected="JavaScript Debug.demo_09_path.html">
     <configuration name="demo_05_ellipse.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_05_ellipse.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -59,9 +59,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo_09_path.html" />
         <item itemvalue="JavaScript Debug.demo_07_polygon.html" />
         <item itemvalue="JavaScript Debug.demo_08_polyline.html" />
-        <item itemvalue="JavaScript Debug.demo_09_path.html" />
         <item itemvalue="JavaScript Debug.demo_06_line.html" />
         <item itemvalue="JavaScript Debug.demo_05_ellipse.html" />
       </list>
@@ -94,7 +94,7 @@
       <workItem from="1576553520289" duration="6081000" />
       <workItem from="1576757080469" duration="2270000" />
       <workItem from="1577149837337" duration="1212000" />
-      <workItem from="1577151089393" duration="4318000" />
+      <workItem from="1577151089393" duration="5014000" />
     </task>
     <servers />
   </component>
