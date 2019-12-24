@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  </head>
+  <body>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+         style="width: 400px;height: 300px;border:1px solid crimson;">
+      <!-- rotate(30 10,50): 以(10,50)为中心顺时针旋转30°。-->
+      <text x="10" y="50" fill="red" font-size="30" transform="rotate(30 10,50)">I love SVG I love SVG</text>
+    </svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+         style="width: 400px;height: 300px;border:1px solid crimson;">
+      <defs>
+        <path id="path1" d="M5,0 a3,3 0 0,0 300,10"></path>
+      </defs>
+      <text x="10" y="50" fill="red" font-size="40">
+        <textPath xlink:href="#path1">I love SVG I love SVG</textPath>
+      </text>
+    </svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+         style="width: 400px;height: 300px;border:1px solid crimson;">
+      <text x="20" y="40" style="fill: red;" font-size="30">Several lines:
+        <tspan x="50" y="100" fill="blue">First line</tspan>
+        <tspan x="80" y="200" fill="green" font-size="50">Second line</tspan>
+      </text>
+    </svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+         style="width: 400px;height: 300px;border:1px solid crimson;">
+      <a xlink:href="http://www.baidu.com" target="_blank">
+        <text x="50" y="50" fill="gray" font-size="30" font-style="italic" text-decoration="underline">I love SVG</text>
+      </a>
+    </svg>
+  </body>
+</html>

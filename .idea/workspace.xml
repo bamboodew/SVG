@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6bd0f42e-3eab-4642-8628-6332ea2c9b6b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_10_path.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo_10_text.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +49,7 @@
       <recent name="D:\MyData\jinshuang1\WebstormProjects\SVG" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo_09_path.html">
-    <configuration name="demo_05_ellipse.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_05_ellipse.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.demo_10_text.html">
     <configuration name="demo_06_line.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_06_line.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -64,13 +62,16 @@
     <configuration name="demo_09_path.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_09_path.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="demo_10_text.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SVG/demo_10_text.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo_10_text.html" />
         <item itemvalue="JavaScript Debug.demo_09_path.html" />
         <item itemvalue="JavaScript Debug.demo_07_polygon.html" />
         <item itemvalue="JavaScript Debug.demo_08_polyline.html" />
         <item itemvalue="JavaScript Debug.demo_06_line.html" />
-        <item itemvalue="JavaScript Debug.demo_05_ellipse.html" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +104,7 @@
       <workItem from="1577149837337" duration="1212000" />
       <workItem from="1577151089393" duration="8306000" />
       <workItem from="1577165139628" duration="4538000" />
-      <workItem from="1577170418556" duration="336000" />
+      <workItem from="1577170418556" duration="3187000" />
     </task>
     <task id="LOCAL-00001">
       <created>1577158509960</created>
