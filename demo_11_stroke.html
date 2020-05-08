@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>SVG提供了一个范围广泛stroke 属性</title>
+  </head>
+  <body>
+    <svg xmlns="http://www.w3.org/2000/svg"
+         style="width: 600px;
+                height: 600px;
+                border:1px solid gray;">
+      <!-- Stroke属性定义一条线，文本或元素轮廓颜色 -->
+      <g fill="none">
+        <path stroke="red" stroke-width="2" d="M0 0 l200 200"/>
+        <path stroke="blue" stroke-width="4" d="M200 200 l100 0"/>
+        <path stroke="green" stroke-width="6" d="M200 200 l100 200"/>
+        <!-- 起点坐标(50,40)，终点坐标(50+100,40+200)。 -->
+      </g>
+    </svg>
+  </body>
+</html>
